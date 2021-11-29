@@ -1,0 +1,16 @@
+D:\projects\kpoKurs\kpoKurs\bin\Debug\kpoKurs.exe.config
+D:\projects\kpoKurs\kpoKurs\bin\Debug\kpoKurs.exe
+D:\projects\kpoKurs\kpoKurs\bin\Debug\kpoKurs.pdb
+D:\projects\kpoKurs\kpoKurs\obj\Debug\MainWindow.g.cs
+D:\projects\kpoKurs\kpoKurs\obj\Debug\App.g.cs
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs_MarkupCompile.cache
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs_MarkupCompile.lref
+D:\projects\kpoKurs\kpoKurs\obj\Debug\MainWindow.baml
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.g.resources
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.Properties.Resources.resources
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.csproj.GenerateResource.cache
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.csproj.CoreCompileInputs.cache
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.exe
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.pdb
+D:\projects\kpoKurs\kpoKurs\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\projects\kpoKurs\kpoKurs\obj\Debug\kpoKurs.csprojAssemblyReference.cache
